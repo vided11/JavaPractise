@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MireaProject</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Общая информация</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="web_development">Веб-разработка</string>
+    <string name="web_dev_description">Веб-разработка - это процесс создания веб-сайтов и веб-приложений. Она включает в себя множество различных направлений, таких как фронтенд, бэкенд и DevOps.</string>
+    <string name="frontend">Фронтенд</string>
+    <string name="frontend_description">Фронтенд-разработка занимается созданием пользовательского интерфейса и взаимодействием с пользователем. Основные технологии: HTML, CSS, JavaScript.</string>
+    <string name="backend">Бэкенд</string>
+    <string name="backend_description">Бэкенд-разработка отвечает за серверную часть веб-приложений, обработку данных и бизнес-логику. Популярные языки и фреймворки: Java, Python, Node.js, PHP.</string>
+    <string name="devops">DevOps</string>
+    <string name="devops_description">DevOps - это методология разработки, которая объединяет разработку (Dev) и операции (Ops), чтобы ускорить и автоматизировать процессы разработки, тестирования и развертывания приложений. DevOps инженеры работают с такими инструментами, как Docker, Kubernetes, Jenkins, Ansible и др. </string>
+    <string name="menu_browser">Начать обучение</string>
+    <string name="menu_salaries">Зарплатные ожидания</string>
+</resources>
