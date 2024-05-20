@@ -1,7 +1,5 @@
 package ru.mirea.shlykvp.mireaproject;
 
-import static android.app.PendingIntent.getActivity;
-
 import android.content.Context;
 import android.hardware.Sensor;
 import android.hardware.SensorEvent;

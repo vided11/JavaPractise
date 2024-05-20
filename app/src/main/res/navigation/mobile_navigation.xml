@@ -40,4 +40,16 @@
         android:name="ru.mirea.shlykvp.mireaproject.AudioRecorderFragment"
         android:label="@string/menu_audio_recorder"
         tools:layout="@layout/fragment_audio_recorder" />
+
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="ru.mirea.shlykvp.mireaproject.ProfileFragment"
+        android:label="Профиль"
+        tools:layout="@layout/fragment_profile" />
+
+    <fragment
+        android:id="@+id/nav_file_operations"
+        android:name="ru.mirea.shlykvp.mireaproject.FileOperationsFragment"
+        android:label="Работа с файлами"
+        tools:layout="@layout/fragment_file_operations" />
 </navigation>

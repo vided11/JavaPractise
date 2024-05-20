@@ -30,5 +30,13 @@
             android:id="@+id/nav_audio_recorder"
             android:icon="@drawable/audio"
             android:title="@string/menu_audio_recorder" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_profile"
+            android:title="Профиль" />
+        <item
+            android:id="@+id/nav_file_operations"
+            android:icon="@drawable/ic_file"
+            android:title="Работа с файлами" />
     </group>
 </menu>
