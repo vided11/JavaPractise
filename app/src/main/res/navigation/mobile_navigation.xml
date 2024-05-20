@@ -22,4 +22,22 @@
         android:name="ru.mirea.shlykvp.mireaproject.WebViewFragment"
         android:label="Начать обучение"
         tools:layout="@layout/fragment_web_view" />
+
+    <fragment
+        android:id="@+id/nav_compass"
+        android:name="ru.mirea.shlykvp.mireaproject.CompassFragment"
+        android:label="@string/menu_compass"
+        tools:layout="@layout/fragment_compass" />
+
+    <fragment
+        android:id="@+id/nav_camera"
+        android:name="ru.mirea.shlykvp.mireaproject.CameraFragment"
+        android:label="@string/menu_camera"
+        tools:layout="@layout/fragment_camera" />
+
+    <fragment
+        android:id="@+id/nav_audio_recorder"
+        android:name="ru.mirea.shlykvp.mireaproject.AudioRecorderFragment"
+        android:label="@string/menu_audio_recorder"
+        tools:layout="@layout/fragment_audio_recorder" />
 </navigation>

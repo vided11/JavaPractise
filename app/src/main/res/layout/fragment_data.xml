@@ -64,7 +64,13 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="4dp"
             android:text="Задачи: проектирование архитектуры, оптимизация производительности, наставничество, решение сложных задач"
-            android:textSize="14sp" />
+            android:textSize="14sp"/>
+
+        <Button
+            android:id="@+id/btnOpenVacancies"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Открыть вакансии Javascript Developer на hh.ru"/>
 
     </LinearLayout>
 
