@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">data_thread</string>
+    <string name="launch_sequence">Последовательность запуска:</string>
+    <string name="runn1_description">
+        \n\nrunOnUiThread(runn1):\n
+        - Выполняется в главном потоке UI\n
+        - Используется для выполнения операций, связанных с UI, из фонового потока\n
+        - Выполняется немедленно
+    </string>
+    <string name="runn2_description">
+        \n\npost(runn2):\n
+        - Добавляет Runnable в очередь сообщений главного потока UI\n
+        - Выполняется асинхронно\n
+        - Возвращается сразу после добавления в очередь
+    </string>
+    <string name="runn3_description">
+        \n\npostDelayed(runn3, 2000):\n
+        - Планирует выполнение Runnable через заданное количество миллисекунд в главном потоке UI\n
+        - Выполняется асинхронно\n
+        - Возвращается сразу после планирования
+    </string>
+</resources>

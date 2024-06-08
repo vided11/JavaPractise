@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirebaseAuth</string>
+    <string name="emailpassword_title_text">Вход по почте</string>
+    <string name="signed_out">Статус</string>
+    <string name="sign_in">Войти</string>
+    <string name="create_account">Создать аккаунт</string>
+    <string name="sign_out">Выйти</string>
+    <string name="verify_email">Подтвердить почту</string>
+    <string name="emailpassword_status_fmt">Email: %1$s (Verified: %2$b)</string>
+    <string name="firebase_status_fmt">Firebase User ID: %1$s</string>
+</resources>
